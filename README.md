@@ -6,6 +6,7 @@ All rights reserved on the code.
 
 
 ## Credits
-Google for fontawesome (it's awesome)
-Bootstrap for bootstrapiness
-Stack Overflow peoples for overflowing all our stacks
+Google for fontawesome (it's awesome)  
+Bootstrap for bootstrapiness  
+Stack Overflow peoples for overflowing all our stacks  
+Sweet Alert for making sweet alerts!
